@@ -1,4 +1,4 @@
-GitHub analysis by using GitHub API.
+GitHub repositories analysis by using GitHub API.
 
 First of all you need to install requirements (you need only one package - requests).
 
